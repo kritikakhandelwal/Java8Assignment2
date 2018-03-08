@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/knoldus/IdeaProjects/AssignmentJava2/src/main/java/twitter/tweet/model/Twitter.java">
+</file>
+<file name="/home/knoldus/IdeaProjects/AssignmentJava2/src/main/java/twitter/tweet/view/Application.java">
+</file>
+<file name="/home/knoldus/IdeaProjects/AssignmentJava2/src/main/java/edu.knoldus/Constant.java">
+</file>
+<file name="/home/knoldus/IdeaProjects/AssignmentJava2/src/main/java/edu.knoldus/model/ClassRoom.java">
+</file>
+<file name="/home/knoldus/IdeaProjects/AssignmentJava2/src/main/java/edu.knoldus/model/Student.java">
+</file>
+<file name="/home/knoldus/IdeaProjects/AssignmentJava2/src/main/java/edu.knoldus/view/StudentApp.java">
+</file>
+<file name="/home/knoldus/IdeaProjects/AssignmentJava2/src/main/java/edu.knoldus/view/StudentMainApp.java">
+</file>
+</checkstyle>
